@@ -1,0 +1,46 @@
+[30-Jul-25 21:15:59 - INFO] - SENPAIMUSIC.core.mongo - Connecting to your Mongo Database...
+[30-Jul-25 21:15:59 - INFO] - SENPAIMUSIC.core.mongo - Connected to your Mongo Database.
+[30-Jul-25 21:15:59 - INFO] - SENPAIMUSIC.core.dir - Directories Updated.
+[30-Jul-25 21:15:59 - INFO] - SENPAIMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[30-Jul-25 21:15:59 - INFO] - SENPAIMUSIC.core.bot - Starting Bot...
+[30-Jul-25 21:16:14 - INFO] - SENPAIMUSIC.core.bot - Music Bot Started as SCANNE4 
+[30-Jul-25 21:16:14 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[30-Jul-25 21:16:14 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[30-Jul-25 21:16:14 - INFO] - apscheduler.scheduler - Scheduler started
+[30-Jul-25 21:16:14 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[30-Jul-25 21:16:14 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[30-Jul-25 21:16:14 - INFO] - apscheduler.scheduler - Scheduler started
+[30-Jul-25 21:16:14 - INFO] - pikepdf._core - pikepdf C++ to Python logger bridge initialized
+[30-Jul-25 21:16:16 - INFO] - SENPAIMUSIC.core.userbot - Starting Assistants...
+[30-Jul-25 21:16:21 - ERROR] - SENPAIMUSIC.core.userbot - Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin!
+[30-Jul-25 21:16:21 - INFO] - SENPAIMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=7008479949>SENPAIxMUSIC</a>
+[30-Jul-25 21:16:21 - INFO] - SENPAIMUSIC.core.call - Starting PyTgCalls Client...
+
+[30-Jul-25 21:22:23 - INFO] - SENPAIMUSIC.core.userbot - Stopping Assistants...
+[30-Jul-25 21:22:24 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000025D60087D10>
+[30-Jul-25 21:22:24 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000025D7EDE8850>
+[30-Jul-25 21:22:30 - INFO] - SENPAIMUSIC.core.mongo - Connecting to your Mongo Database...
+[30-Jul-25 21:22:30 - INFO] - SENPAIMUSIC.core.mongo - Connected to your Mongo Database.
+[30-Jul-25 21:22:30 - INFO] - SENPAIMUSIC.core.dir - Directories Updated.
+[30-Jul-25 21:22:30 - INFO] - SENPAIMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[30-Jul-25 21:22:30 - INFO] - SENPAIMUSIC.core.bot - Starting Bot...
+[30-Jul-25 21:22:40 - INFO] - SENPAIMUSIC.core.bot - Music Bot Started as SCANNE4 
+[30-Jul-25 21:22:40 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[30-Jul-25 21:22:40 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[30-Jul-25 21:22:40 - INFO] - apscheduler.scheduler - Scheduler started
+[30-Jul-25 21:22:40 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[30-Jul-25 21:22:40 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[30-Jul-25 21:22:40 - INFO] - apscheduler.scheduler - Scheduler started
+[30-Jul-25 21:22:40 - INFO] - pikepdf._core - pikepdf C++ to Python logger bridge initialized
+[30-Jul-25 21:22:42 - INFO] - SENPAIMUSIC.core.userbot - Starting Assistants...
+[30-Jul-25 21:22:46 - ERROR] - SENPAIMUSIC.core.userbot - Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin!
+[30-Jul-25 21:22:46 - INFO] - SENPAIMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=7008479949>SENPAIxMUSIC</a>
+[30-Jul-25 21:22:46 - INFO] - SENPAIMUSIC.core.call - Starting PyTgCalls Client...
+
+[30-Jul-25 21:40:03 - INFO] - SENPAIMUSIC.core.userbot - Stopping Assistants...
+[30-Jul-25 21:40:04 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000014F7A9A4D90>
+[30-Jul-25 21:40:04 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000014F7E7E8850>
