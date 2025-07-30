@@ -156,7 +156,7 @@ STRING_SESSION=
 
 To get an instant result do /reboot in chat of logger .
   
-![image](https://graph.org/file/801e199f756d83cb4d7f5-068bb84543385c04b6.jpg)
+![image](https://files.catbox.moe/wf0ey0.jpg)
 
 
 ### Channel Support
